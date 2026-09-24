@@ -7,9 +7,9 @@ Siree S. Sæther 2026 09
 
 km = 10000      #Km kjørt i gjennomsnitt per år
 år = 1      
-fe = 5000     #Kroner forsikring elbil per år
-fb = 7500    #Kroner forsikring bensinbil per år
-tfa = 8.38   #Kroner trafikkforsikringsvgift per dag
+fe = 5000        #Kroner forsikring elbil per år
+fb = 7500        #Kroner forsikring bensinbil per år
+tfa = 8.38       #Kroner trafikkforsikringsvgift per dag
 
 kmpe = (0.2 * km)*2     #Kilometerpris i kr for elbil (0.2 kwh/km * km)*2 kr
 kmpb = 1 * km       #Kilometerpris i kr for bensinbil, 1 kr * km
