@@ -3,8 +3,7 @@ Innlevering arbeidskrav 1 PY1010
 Siree S. Sæther 2026 09
 """
 
-pe = 0
-pb = 0
+
 
 km = 10000      #Km kjørt i gjennomsnitt per år
 år = 1      
